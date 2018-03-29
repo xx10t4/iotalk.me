@@ -23,3 +23,9 @@ To start using **iotalk** all you need is an IOTA seed and an [IOTA node](https:
 5. Create an Account and share your Account address with other users to begin sending messages.
 
 **iotalk** is still in early stage development so you will almost certainly run into bugs. Please report issues [here](https://github.com/xx10t4/iotalk/issues). I am also happy to receive Pull Requests.
+
+## Donate
+
+If you like this project and would like to support continued development on it, please consider donating at this address:
+
+DCIGBBJDNKTXJEXEJKCRNSQKSQOZS9N9TQXHYIYYRH9GTYJVDCOMQRYRHDHIHVPIZKSKCRPMDRZCEMYADFRXLLIVEX
